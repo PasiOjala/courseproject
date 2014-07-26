@@ -11,7 +11,6 @@ All variables from 3 to 68 follow the same definition pattern. For more informat
  [3] "MeanOfTimeDomainBodyAccelerationMeanX"                     
         Mean of body acceleration measurements (X-axis) for given test subject and activity
  
- 
  [4] "MeanOfTimeDomainBodyAccelerationMeanY"                     
  [5] "MeanOfTimeDomainBodyAccelerationMeanZ"                     
  [6] "MeanOfTimeDomainBodyAccelerationStdX"                      
@@ -72,9 +71,7 @@ All variables from 3 to 68 follow the same definition pattern. For more informat
 [61] "MeanOfFrequencyDomainBodyAccelerationMagnitudeMean"        
 [62] "MeanOfFrequencyDomainBodyAccelerationMagnitudeStd"         
 [63] "MeanOfFrequencyDomainBodyBodyAccelerationJerkMagnitudeMean"
-
 [64] "MeanOfFrequencyDomainBodyBodyAccelerationJerkMagnitudeStd" 
-
 [65] "MeanOfFrequencyDomainBodyBodyGyroscopeMagnitudeMean"       
 [66] "MeanOfFrequencyDomainBodyBodyGyroscopeMagnitudeStd"        
 [67] "MeanOfFrequencyDomainBodyBodyGyroscopeJerkMagnitudeMean"   
