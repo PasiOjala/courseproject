@@ -1,13 +1,17 @@
- ** Data dictionary for tidytable**
+ **Data dictionary for tidytable**
 
-All variables from 3 to 68 follow the same definition. For more information, see README.txt in the test data directory. All the values used for mean calculations have been normalized and bounded within [-1,1] in the original data set.
+All variables from 3 to 68 follow the same definition pattern. For more information, see README.txt in the test data directory. All the values used for mean calculations have been normalized and bounded within [-1,1] in the original data set.
 
  [1] "SubjectNumber"                                             
         Numeric identifier of test subject
+ 
  [2] "Activity"                           
         Activity taken during measurement
+ 
  [3] "MeanOfTimeDomainBodyAccelerationMeanX"                     
         Mean of body acceleration measurements (X-axis) for given test subject and activity
+ 
+ 
  [4] "MeanOfTimeDomainBodyAccelerationMeanY"                     
  [5] "MeanOfTimeDomainBodyAccelerationMeanZ"                     
  [6] "MeanOfTimeDomainBodyAccelerationStdX"                      
@@ -68,7 +72,9 @@ All variables from 3 to 68 follow the same definition. For more information, see
 [61] "MeanOfFrequencyDomainBodyAccelerationMagnitudeMean"        
 [62] "MeanOfFrequencyDomainBodyAccelerationMagnitudeStd"         
 [63] "MeanOfFrequencyDomainBodyBodyAccelerationJerkMagnitudeMean"
+
 [64] "MeanOfFrequencyDomainBodyBodyAccelerationJerkMagnitudeStd" 
+
 [65] "MeanOfFrequencyDomainBodyBodyGyroscopeMagnitudeMean"       
 [66] "MeanOfFrequencyDomainBodyBodyGyroscopeMagnitudeStd"        
 [67] "MeanOfFrequencyDomainBodyBodyGyroscopeJerkMagnitudeMean"   
